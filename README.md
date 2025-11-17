@@ -1,5 +1,7 @@
-# walmart-sales-datawearhouse
+# walmart-sales-datawarehouse
 Retail Data Warehouse using MySQL and Python — A complete end-to-end Data Warehouse project for retail sales analysis, featuring a star schema design, automated ETL pipeline, and analytical SQL queries for business insights.
+
+---
 
 # Hybrid Join Data Warehousing Project
 
@@ -16,3 +18,22 @@ The project uses **Python**, **pandas**, **pymysql**, and **multithreading** for
    Verify installation:
    ```bash
    python --version
+
+## VS Code (recommended IDE)
+
+#### Install required libraries
+
+#### pip install pandas pymysql
+
+
+MySQL Server running locally or remotely.
+
+## Project files:
+
+customer_master_data.csv
+
+product_master_data.csv
+
+transactional_data.csv
+
+datawearhouse.sql
